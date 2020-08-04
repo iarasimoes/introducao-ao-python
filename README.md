@@ -11,7 +11,7 @@ Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-m
 A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo.
 
 ## FUNÇÕES
-# Reverso do número. Faça uma função que retorne o reverso de um número inteiro informado. Por exemplo: 127 -> 721.
+Reverso do número. Faça uma função que retorne o reverso de um número inteiro informado. Por exemplo: 127 -> 721.
 =======
 # introducao-ao-python
 >>>>>>> d0afff985f72f694946f7300b616b870146a0202
