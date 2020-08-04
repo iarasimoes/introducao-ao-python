@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introdução ao Python
 
 ## OPERADORES
@@ -11,3 +12,6 @@ A série de Fibonacci é formada pela seqüência 1,1,2,3,5,8,13,21,34,55,... Fa
 
 ## FUNÇÕES
 # Reverso do número. Faça uma função que retorne o reverso de um número inteiro informado. Por exemplo: 127 -> 721.
+=======
+# introducao-ao-python
+>>>>>>> d0afff985f72f694946f7300b616b870146a0202
